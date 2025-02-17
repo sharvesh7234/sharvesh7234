@@ -4,89 +4,87 @@
 <p>📩 sharveshk2003@gmail.com</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
-<p>
-  <a target="_blank" href="https://www.python.org/">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42" />
     <br>Python
-  </a>
+  </div>
 
-  <a target="_blank" href="https://en.wikipedia.org/wiki/C_(programming_language)">
+  <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42" />
     <br>C
-  </a>
+  </div>
 
-  <a target="_blank" href="https://react.dev/">
+  <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42" />
     <br>React
-  </a>
+  </div>
 
-  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42" />
     <br>HTML5
-  </a>
+  </div>
 
-  <a target="_blank" href="https://www.tensorflow.org/">
+  <div style="text-align: center;">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="42" height="42" />
     <br>TensorFlow
-  </a>
+  </div>
 
-  <a target="_blank" href="https://pytorch.org/">
+  <div style="text-align: center;">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="42" height="42" />
     <br>PyTorch
-  </a>
+  </div>
 
-  <a target="_blank" href="https://pandas.pydata.org/">
+  <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="42" height="42" />
     <br>Pandas
-  </a>
+  </div>
 
-  <a target="_blank" href="https://seaborn.pydata.org/">
+  <div style="text-align: center;">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="42" height="42" />
     <br>Seaborn
-  </a>
+  </div>
 
-  <a target="_blank" href="https://opencv.org/">
+  <div style="text-align: center;">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="42" height="42" />
     <br>OpenCV
-  </a>
+  </div>
 
-  <a target="_blank" href="https://scikit-learn.org/">
+  <div style="text-align: center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="42" height="42" />
     <br>Scikit-Learn
-  </a>
+  </div>
 
-  <a target="_blank" href="https://www.mongodb.com/">
+  <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="42" height="42" />
     <br>MongoDB
-  </a>
+  </div>
 
-  <a target="_blank" href="https://www.mysql.com/">
+  <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42" />
     <br>MySQL
-  </a>
+  </div>
 
-  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42" />
     <br>CSS3
-  </a>
+  </div>
 
-  <a target="_blank" href="https://firebase.google.com/">
+  <div style="text-align: center;">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="42" height="42" />
     <br>Firebase
-  </a>
+  </div>
 
-  <!-- Tableau -->
-  <a target="_blank" href="https://www.tableau.com/">
+  <div style="text-align: center;">
     <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="42" height="42" />
     <br>Tableau
-  </a>
+  </div>
 
-  <!-- Power BI -->
-  <a target="_blank" href="https://powerbi.microsoft.com/">
+  <div style="text-align: center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="42" height="42" />
     <br>Power BI
-  </a>
-</p>
+  </div>
+</div>
 
 <h2>⚡️ Where to find me</h2>
 <p>
