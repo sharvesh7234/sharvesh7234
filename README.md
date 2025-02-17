@@ -19,8 +19,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" />
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" />
-    <img src="/mnt/data/Screenshot 2025-02-17 at 4.13.37 PM.png" alt="tableau" width="42" height="42" />
-    <img src="/mnt/data/Screenshot 2025-02-17 at 4.15.19 PM.png" alt="powerbi" width="42" height="42" />
+
 </p>
 
 <h2>⚡️ Where to find me</h2>
