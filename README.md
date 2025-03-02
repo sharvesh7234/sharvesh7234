@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm SHARVESH K </h1>
 <p>A dedicated Data Analyst, innovative ML Engineer, and creative Frontend Developer🚀 </p>
-<p>📶Connect me through 𝐿𝑒𝑇𝑊𝑖𝑒𝐿𝑒𝑋 username: Sharevesh K</p>
+<p>📶Connect me through 𝐿inkedin username: Sharevesh K</p>
 <p>📩 sharveshk2003@gmail.com</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
